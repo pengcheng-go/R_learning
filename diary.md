@@ -1,2 +1,2 @@
-### Learning Dairy 1
+# Learning Dairy 1
 My plan is to keep a md format diary to keep notes on **R** learning.
